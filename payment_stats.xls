@@ -1,0 +1,4 @@
+payment_method,order_count,avg_sales
+Bank Transfer,7,60.0
+Credit Card,15,91.43
+PayPal,8,103.33

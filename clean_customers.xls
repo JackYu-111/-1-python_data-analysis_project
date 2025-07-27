@@ -1,0 +1,21 @@
+customer_id,customer_name,email,region
+C001,John Doe,john.doe@email.com,North
+C002,Alice Wong,unknown@email.com,South
+C003,Bob Chan,bob.chan@email.com,East
+C004,Mary Lee,mary.lee@email.com,West
+C005,Tom Ng,tom.ng@email.com,North
+C006,Susan Lau,susan.lau@email.com,East
+C007,David Ho,unknown@email.com,West
+C008,Emma Chan,emma.chan@email.com,South
+C009,Peter Lam,peter.lam@email.com,North
+C010,Linda So,linda.so@email.com,East
+C011,James Wong,james.wong@email.com,West
+C012,Grace Tsang,unknown@email.com,South
+C013,Michael Chan,michael.chan@email.com,North
+C014,Amy Cheung,amy.cheung@email.com,East
+C015,Steven Yip,steven.yip@email.com,West
+C016,Clara Mak,clara.mak@email.com,South
+C017,Henry Lau,henry.lau@email.com,North
+C018,Janet Ng,janet.ng@email.com,East
+C019,Victor Li,victor.li@email.com,West
+C020,Rebecca Tam,rebecca.tam@email.com,South

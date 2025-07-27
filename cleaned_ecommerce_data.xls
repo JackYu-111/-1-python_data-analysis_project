@@ -1,0 +1,34 @@
+order_id,customer_id,order_date,total_amount,payment_method,region
+O001,C001,2025-01-01,130.0,Credit Card,North
+O002,C002,2025-01-02,,PayPal,South
+O002,C002,2025-01-02,,PayPal,South
+O003,C003,2025-01-03,50.0,Credit Card,East
+O004,C004,2025-01-04,50.0,Bank Transfer,West
+O005,C005,2025-01-05,120.0,Credit Card,North
+O006,C006,2025-01-06,,PayPal,East
+O007,C007,2025-01-07,100.0,Credit Card,West
+O008,C002,2025-01-08,40.0,Bank Transfer,South
+O008,C002,2025-01-08,40.0,Bank Transfer,South
+O009,C008,2025-01-09,150.0,Credit Card,South
+O010,C009,2025-01-10,,PayPal,North
+O011,C010,2025-01-11,70.0,Credit Card,East
+O012,C011,2025-01-12,80.0,Bank Transfer,West
+O013,C012,2025-01-13,,PayPal,South
+O014,C013,2025-01-14,60.0,Credit Card,North
+O015,C014,2025-01-15,100.0,Bank Transfer,East
+O016,C015,2025-01-16,50.0,Credit Card,West
+O017,C016,2025-01-17,,PayPal,South
+O018,C017,2025-01-18,100.0,Credit Card,North
+O019,C018,2025-01-19,40.0,Bank Transfer,East
+O020,C019,2025-01-20,60.0,Credit Card,West
+O021,C020,2025-01-21,180.0,PayPal,South
+O022,C001,2025-01-22,90.0,Credit Card,North
+O023,C002,2025-01-23,60.0,Bank Transfer,South
+O023,C002,2025-01-23,60.0,Bank Transfer,South
+O024,C003,2025-01-24,,Credit Card,East
+O025,C004,2025-01-25,70.0,PayPal,West
+O026,C005,2025-01-26,100.0,Credit Card,North
+O027,C006,2025-01-27,50.0,Bank Transfer,East
+O028,C007,2025-01-28,120.0,Credit Card,West
+O029,C008,2025-01-29,60.0,PayPal,South
+O030,C009,2025-01-30,80.0,Credit Card,North
